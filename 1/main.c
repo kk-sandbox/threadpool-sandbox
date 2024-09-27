@@ -51,6 +51,7 @@ int main() {
 
     logit("LOOP.....");
     getchar();
+    logit("FINISH.....");
 
     // Clean the threadpool
     threadpool_clean(threadpool);
